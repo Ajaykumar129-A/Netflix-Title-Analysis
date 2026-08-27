@@ -60,7 +60,7 @@ The dataset contains **5,398 records and 12 columns** in the notebook.
 
 ### Programming Language
 
-* 🐍 Python
+*  Python
 
 ### Python Libraries
 
