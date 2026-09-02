@@ -114,6 +114,23 @@ The analysis indicates increasing international diversity in Netflix's catalog o
 The growing number of countries contributing content reflects Netflix's global expansion and investment in regional entertainment industries.
 
 ---
+1. Content Distribution Analysis Dashboard
+   
+![Uploading Content_Distribution_Analysis_Dashboard.png…]()
+
+2. Time Trends Analysis Dashboard
+
+ ![Uploading Time_Trends_Analysis_Dashboard.png…]()
+
+3. Country Genre Analysis Dashboard
+
+![Uploading Country_Genre_Analysis_Dashboard.png…]()
+
+4. Business & Audience Analysis Dashboard
+
+![Uploading Business_Audience_Analysis_Dashboard.png…]()
+
+---
 
 # 📈 Key Business Insights
 
